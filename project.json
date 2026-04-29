@@ -1,0 +1,25 @@
+{
+  "overview": "Premium personal portfolio website for Ayush Kumar, a B.Des Communication Design student at Vivekananda Global University, Jaipur. Showcases skills, projects, design process, and professional journey with a polished, minimal, modern aesthetic.",
+  "features": [
+    "Hero section with animated gradient and CTAs",
+    "About Me with professional bio",
+    "Skills displayed in elegant pill/card layout",
+    "4 premium project cards with hover effects",
+    "Professional timeline journey section",
+    "Visual design process flow (Research to Deliver)",
+    "Statement section with premium typography",
+    "Contact section with social links",
+    "Smooth scroll navigation and micro-interactions",
+    "Fully responsive desktop-first design"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "design",
+    "communication-design",
+    "creative",
+    "personal-branding",
+    "showcase"
+  ],
+  "last_updated": "2026-04-29T09:15:06.911Z"
+}
